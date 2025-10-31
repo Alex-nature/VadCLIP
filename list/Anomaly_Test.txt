@@ -133,6 +133,11 @@ Stealing/Stealing036_x264.mp4
 Stealing/Stealing058_x264.mp4
 Stealing/Stealing062_x264.mp4
 Stealing/Stealing079_x264.mp4
+Vandalism/Vandalism007_x264.mp4
+Vandalism/Vandalism015_x264.mp4
+Vandalism/Vandalism017_x264.mp4
+Vandalism/Vandalism028_x264.mp4
+Vandalism/Vandalism036_x264.mp4
 Testing_Normal_Videos_Anomaly/Normal_Videos_003_x264.mp4
 Testing_Normal_Videos_Anomaly/Normal_Videos_006_x264.mp4
 Testing_Normal_Videos_Anomaly/Normal_Videos_010_x264.mp4
@@ -283,8 +288,3 @@ Testing_Normal_Videos_Anomaly/Normal_Videos_940_x264.mp4
 Testing_Normal_Videos_Anomaly/Normal_Videos_941_x264.mp4
 Testing_Normal_Videos_Anomaly/Normal_Videos_943_x264.mp4
 Testing_Normal_Videos_Anomaly/Normal_Videos_944_x264.mp4
-Vandalism/Vandalism007_x264.mp4
-Vandalism/Vandalism015_x264.mp4
-Vandalism/Vandalism017_x264.mp4
-Vandalism/Vandalism028_x264.mp4
-Vandalism/Vandalism036_x264.mp4

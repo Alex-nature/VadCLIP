@@ -3,7 +3,12 @@ import os
 import urllib
 import warnings
 from typing import Any, Union, List
-from pkg_resources import packaging
+
+try:
+    from packaging import version
+except ImportError:
+    from pkg_resources import packaging
+    version = packaging.version
 
 import torch
 from PIL import Image
@@ -20,7 +25,7 @@ except ImportError:
     BICUBIC = Image.BICUBIC
 
 
-if packaging.version.parse(torch.__version__) < packaging.version.parse("1.7.1"):
+if version.parse(torch.__version__) < version.parse("1.7.1"):
     warnings.warn("PyTorch version 1.7.1 or higher is recommended")
 
 
